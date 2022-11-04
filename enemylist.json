@@ -16,7 +16,7 @@
         "Ranger ShotGun_Leader" : "app:/OBJECT/AIARMYSOLDIER_SG_LEADER.SGO",
         "Ranger Sniper" : "app:/OBJECT/AIARMYSOLDIER_SN.SGO",
         "Ranger Sniper_Leader" : "app:/OBJECT/AIARMYSOLDIER_SN_LEADER.SGO",
-        "AI SecurityGuard" : "app:/OBJECT/AISECURITYGUARD.SGO"
+        "AI SecurityGuard*" : "app:/OBJECT/AISECURITYGUARD.SGO"
     },
     "AI Fencer" : {
         "Brown Fencer " : "app:/OBJECT/AIHEAVYARMOR_SC.SGO",
@@ -28,11 +28,11 @@
         "Grim Reaper" : "app:/OBJECT/AIHEAVYARMOR_SP.SGO",
         "Grim Reaper_Leader" : "app:/OBJECT/AIHEAVYARMOR_SP_LEADER.SGO",
         "Grim Reaper_MobLeader" : "app:/OBJECT/AIHEAVYARMOR_SP_MOBLEADER.SGO",
-        "AI CIV Fencer" : "app:/OBJECT/AI_CIVFencer.SGO"
+        "AI CIV Fencer*" : "app:/OBJECT/AI_CIVFencer.SGO"
     },
     "AI Air Raider" : {
         "AI CIV Air Raider" : "app:/OBJECT/AIMAINTENANCE.SGO",
-        "AI Military Air Raider" : "app:/OBJECT/AI_Military_AirRaider.SGO"
+        "AI Military Air Raider*" : "app:/OBJECT/AI_Military_AirRaider.SGO"
     },
     "AI Wing Diver" : {
         "Wing Diver Elite_Thundercross Bow_Leader" : "app:/OBJECT/AIPALEWING_ELITE_IZN_LEADER.SGO",
@@ -66,7 +66,7 @@
         "Heavy Heavy Machine Gun" : "app:/OBJECT/E506_HA_BIGGREY_HMG.SGO",
         "Heavy Heavy Machine Gun_Leader" : "app:/OBJECT/E506_HA_BIGGREY_HMG_LEADER.SGO",
         "Heavy Missile Launcher" : "app:/OBJECT/E506_HA_BIGGREY_ML.SGO",
-        "Heavy Missile Launcher_Leader" : "app:/OBJECT/E506_HA_BIGGREY_ML_LEADER.SGO",
+        "Heavy Missile Launcher_Leader" : "app:/OBJECT/E506_HA_BIGGREY_ML_LEADER.SGO"
     },
     "Ant (Species Alpha)" : {
         "Black Ant" : "app:/OBJECT/GIANTANT01.SGO",
@@ -182,9 +182,14 @@
         "Bomber from 4.1" : "app:/OBJECT/BOMBER401.SGO",
         "Bike" : "app:/OBJECT/V503_BIKE.SGO",
         "DLC Bike" : "app:/OBJECT/V503_BIKE_OMEGAZ.SGO",
-        "AI Nix" : "app:/OBJECT/V504_BEGARUTA_AI.SGO",
-        "Yellow Nix" : "app:/OBJECT/V504_BEGARUTA_FW.SGO",
-        "G AI Nix" : "app:/OBJECT/V504_BEGARUTA_G_AI.SGO",
+        "Gray AI Nix" : "app:/OBJECT/V504_BEGARUTA_AI.SGO",
+        "Yellow AI Nix" : "app:/OBJECT/V504_BEGARUTA_FW.SGO",
+        "Green AI Nix" : "app:/OBJECT/V504_BEGARUTA_G_AI.SGO",
+        "Blue AI Nix*" : "app:/OBJECT/V504_BEGARUTA_BLUE.SGO",
+        "White AI Nix*" : "app:/OBJECT/V504_BEGARUTA_DLCHS_MISSION.SGO",
+        "Gold AI Nix*" : "app:/OBJECT/V504_BEGARUTA_GOLD.SGO",
+        "Pink DLC AI Nix*" : "app:/OBJECT/V504_BEGARUTA_PINK.SGO",
+        "Red AI Nix*" : "app:/OBJECT/V504_BEGARUTA_RED.SGO",
         "Tank" : "app:/OBJECT/V505_TANK.SGO",
         "AI Tank" : "app:/OBJECT/V505_TANK_AI.SGO",
         "DLC 4.1's Tank" : "app:/OBJECT/V505_TANK_EDF4.SGO",
@@ -203,13 +208,11 @@
         "Pickup Truck" : "app:/OBJECT/V512_KEITRUCK.SGO",
         "DLC Pickup Truck" : "app:/OBJECT/V512_KEITRUCK_BGP.SGO",
         "Trailer Truck" : "app:/OBJECT/V513_TRAILERTRUCK01CAB.SGO",
-        "Barga" : "app:/OBJECT/V515_RETROBALAM.SGO",
-        "AI Barga" : "app:/OBJECT/V515_RETROBALAM_AI.SGO",
-        "AI Army Gray Barga" : "app:/OBJECT/V515_RETROBALAM_ARMY_AI.SGO",
-        "Gold Barga" : "app:/OBJECT/V515_RETROBALAM_GOLD.SGO",
-        "Gray Barga" : "app:/OBJECT/V515_RETROBALAM_GRAY.SGO",
-        "Green Barga" : "app:/OBJECT/V515_RETROBALAM_GREEN.SGO",
-        "Mission Barga" : "app:/OBJECT/V515_RETROBALAM_MISSION.SGO",
+        "Orange AI Barga" : "app:/OBJECT/V515_RETROBALAM.SGO",
+        "Gray AI Barga" : "app:/OBJECT/V515_RETROBALAM_ARMY_AI.SGO",
+        "Gold AI Barga" : "app:/OBJECT/V515_RETROBALAM_GOLD.SGO",
+        "Green AI Barga" : "app:/OBJECT/V515_RETROBALAM_GREEN.SGO",
+        "Purple AI Barga" : "app:/OBJECT/V515_RETROBALAM_ULTI.SGO",
         "Grape" : "app:/OBJECT/VEHICLE401_STRIKER.SGO",
         "AI Naegling" : "app:/OBJECT/VEHICLE402_ROCKET_AI.SGO",
         "Railgun Tank" : "app:/OBJECT/VEHICLE403_TANK.SGO",
@@ -223,20 +226,8 @@
         "Jet Blue Camo" : "app:/OBJECT/BOMBER501_2.SGO"
     },
     "Unstable Entities" : {
-        "*Basic Nix" : "app:/OBJECT/V504_BEGARUTA.SGO",
-        "*Blue Nix" : "app:/OBJECT/V504_BEGARUTA_BLUE.SGO",
-        "*DLC Mission Nix" : "app:/OBJECT/V504_BEGARUTA_DLCHS_MISSION.SGO",
-        "*Mission G Nix" : "app:/OBJECT/V504_BEGARUTA_G_MISSION.SGO",
-        "*Gold Nix" : "app:/OBJECT/V504_BEGARUTA_GOLD.SGO",
-        "*Mission Nix" : "app:/OBJECT/V504_BEGARUTA_MISSION.SGO",
-        "*Pink Nix" : "app:/OBJECT/V504_BEGARUTA_PINK.SGO",
-        "*Red Nix" : "app:/OBJECT/V504_BEGARUTA_RED.SGO",
-        "*White Nix" : "app:/OBJECT/V504_BEGARUTA_WHITE.SGO",
-        "*Yellow Nix" : "app:/OBJECT/V504_BEGARUTA_YELLOW.SGO",
         "*Helicopter Transportation Fleet" : "app:/OBJECT/V508_TRANSPORT_FORMATION.SGO",
         "*Ship Transportation Fleet" : "app:/OBJECT/V508_TRANSPORT_FORMATION.SGO",
-        "*Ultimate Barga" : "app:/OBJECT/V515_RETROBALAM_ULT.SGO",
-        "*Naegling" : "app:/OBJECT/VEHICLE402_ROCKET.SGO",
         "*Proteus" : "app:/OBJECT/VEHICLE407_BIGBEGARUTA.SGO",
         "*Depth Crawler" : "app:/OBJECT/VEHICLE502_GROUNDROBO.SGO",
         "*Gold Depth Crawler" : "app:/OBJECT/VEHICLE502_GROUNDROBOGOLD.SGO",
